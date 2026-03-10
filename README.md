@@ -1,5 +1,7 @@
 # 📊 Last-Mile Logistics Dashboard — Real-Time Order Monitoring
 
+![Dashboard Preview](images/dashboard_preview.png)
+
 > Operational monitoring dashboard tracking 3,200–3,800 daily orders across multiple states and logistics hubs, built entirely in Excel + Power Query. Designed for daily operational prioritization of open orders within a rolling 6-day window.
 
 ---
